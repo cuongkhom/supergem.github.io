@@ -164,3 +164,5 @@ pubmatic.com,156344,RESELLER,5d62403b186f2ace
 indexexchange.com,184738,RESELLER
 google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 google.com, pub-5298660485673063, DIRECT, f08c47fec0942fa0
+gamob.com, pub-5193107020, DIRECT
+google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
